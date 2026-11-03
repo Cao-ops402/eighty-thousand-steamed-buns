@@ -1,4 +1,4 @@
-How to Create a Private Repository with a README
+# How to Create a Private Repository with a README
 
 Create a private GitHub repository with a default README in about two minutes.
 
