@@ -95,6 +95,3 @@ Seven items, from the class checklist:
 
 The repository holds the documentation set, the archived practice tutorial, and the revision record. It is the only deliverable; no ZIP is needed because the whole set is versioned here.
 
-## 7. AI disclosure
-
-An AI assistant helped draft the structure, the phrasing, and the revision tables. I checked every quoted label against GitHub Docs myself, chose the scope and the reader profile, and made the final wording decisions. The items listed under "Uncertain facts" in `docs/REVIEW WEEK3 - Constrained Edit.md` are open on purpose: they are the checks I have not finished, and I would rather record them than claim them.
