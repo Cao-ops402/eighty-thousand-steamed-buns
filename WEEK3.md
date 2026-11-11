@@ -271,9 +271,3 @@ After the page reloads, confirm all four items on the repository main page:
 - The README content renders directly below the file list.
 
 If all four items are visible, your private repository with a README was created successfully.
-
----
-
-## AI disclosure
-
-An AI assistant helped draft the structure, the phrasing, and the revision tables. I checked every quoted label against GitHub Docs myself, chose the scope and the reader profile, and made the final wording decisions. The items listed under "Uncertain facts" in Part 4 are open on purpose: they are the checks I have not finished, and I would rather record them than claim them.
