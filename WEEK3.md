@@ -271,3 +271,6 @@ After the page reloads, confirm all four items on the repository main page:
 - The README content renders directly below the file list.
 
 If all four items are visible, your private repository with a README was created successfully.
+
+#### AI disclosure 
+An AI assistant helped draft the structure. I would rather record them than claim them.
