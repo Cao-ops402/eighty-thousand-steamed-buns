@@ -1,4 +1,30 @@
-# How to Create a Private Repository with a README
+eighty-thousand-steamed-buns
+
+Task documentation for the GitHub web interface, written for one reader: a first-year student with a new account, no Git experience, and English as a second language.
+
+**Start here: [quick-start.md](quick-start.md).** One complete task, about five minutes, browser only.
+
+## What is in this repository
+
+
+| File                                               | Week | What it is                                                                       |
+| -------------------------------------------------- | ---- | -------------------------------------------------------------------------------- |
+| [quick-start.md](quick-start.md)                   | 5    | One complete core task: create a private repository and commit your first change |
+| [WEEK3.md](WEEK3.md)                               | 3    | Project proposal, two task guides, and the constrained edit record               |
+| [WEEK2.md](WEEK2.md)                               | 2    | Practice tutorial, revised to the class writing checklist                        |
+| [WEEK1.md](WEEK1.md)                               | 1    | Practice tutorial, first draft                                                   |
+| [DOCUMENTATION_EDIT.docx](DOCUMENTATION_EDIT.docx) | 2    | Submitted edit record: six style rules, change log, peer comment                 |
+
+## How a guide is written
+
+Each page names one task and states the result before the steps, so the reader knows what finishing looks like. Requirements come first, then numbered steps with one action each, with every on-screen label bolded exactly as GitHub prints it. Every page ends with a result check of visible items, because a step is only done when the reader can see it.
+
+Reference: GitHub Docs, *Quickstart for repositories* — https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+
+I put the account requirements before Step 1, because an unverified email address blocks the task before it starts.# How to Create a Private Repository with a README
+
+# ***Previous version:***
+
 # Prerequisites
 A registered GitHub account (github.com).  
 You are already signed in to GitHub in your web browser.  
